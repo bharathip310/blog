@@ -1,0 +1,6 @@
+{
+  "name": "Blog Platform",
+  "description": "A blogging platform where users can create posts, comment, and interact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
